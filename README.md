@@ -15,7 +15,7 @@
 - [java-tcp-client-server](https://github.com/wwwportal/java-tcp-client-server) — A basic TCP client/server pair in Java.
 - [java-socket-programming](https://github.com/wwwportal/java-socket-programming) — Small Java socket programming exercises: area-calc client/server, multithreaded echo server, address utilities.
 
-### Python
+### Python/Shell Scripting
 - [Pulse](https://github.com/wwwportal/Pulse) — A safety-verifying software-to-hardware compiler bridging continuous-variable logic with silicon-photonic processors.
 - [brightspace-cli](https://github.com/wwwportal/brightspace-cli) — A CLI calendar and task viewer for the Brightspace learning management system.
 - [Scribe](https://github.com/wwwportal/Scribe) — A tool for downloading and transcribing audio from a YouTube video.
