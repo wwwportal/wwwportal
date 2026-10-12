@@ -3,8 +3,8 @@
 ## Projects
 
 ### C/C++/ASM
-- [StudentAssessmentSystem](https://github.com/wwwportal/StudentAssessmentSystem) — A C++ student grade tracking system with a Nana GUI.
 - [Structural](https://github.com/wwwportal/Structural) — A civil engineering domain-specific language and compiler written in Prolog.
+- [StudentAssessmentSystem](https://github.com/wwwportal/StudentAssessmentSystem) — A C++ student grade tracking system with a Nana GUI.
 - [maze-generator-c](https://github.com/wwwportal/maze-generator-c) — A C program that generates and solves randomized mazes.
 - [soggy-coaster-accounting](https://github.com/wwwportal/soggy-coaster-accounting) — A C program for tracking a roller coaster park's food, drink, and show inventory.
 - [cc-validation-68hc12](https://github.com/wwwportal/cc-validation-68hc12) — A 68HCS12 assembly program that validates credit card numbers and drives hex displays.
