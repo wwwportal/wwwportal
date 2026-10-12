@@ -3,7 +3,7 @@
 ## Projects
 
 ### C/C++/ASM
-- [Structural](https://github.com/wwwportal/Structural) — A civil engineering domain-specific language and compiler written in Prolog.
+- [Structural](https://github.com/wwwportal/Structural) — A C compiler for a civil engineering Prolog-like DSL.
 - [StudentAssessmentSystem](https://github.com/wwwportal/StudentAssessmentSystem) — A C++ student grade tracking system with a Nana GUI.
 - [maze-generator-c](https://github.com/wwwportal/maze-generator-c) — A C program that generates and solves randomized mazes.
 - [soggy-coaster-accounting](https://github.com/wwwportal/soggy-coaster-accounting) — A C program for tracking a roller coaster park's food, drink, and show inventory.
