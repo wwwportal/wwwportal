@@ -22,6 +22,6 @@
 
 ## Quick Prototypes
 
-- [textSound-prototype](https://github.com/wwwportal/textSound-prototype) — A polyphonic microtonal mixer synthesizing audio carriers across a 72-EDO tuning matrix. Live: https://wwwportal.github.io/textSound-prototype/
+- [char-to-freq](https://github.com/wwwportal/char-to-freq) — A polyphonic microtonal mixer synthesizing audio carriers across a 72-EDO tuning matrix. Live: https://github.com/wwwportal/char-to-freq
 - [rihla-prototype](https://github.com/wwwportal/rihla-prototype) — "Rihla" (Arabic for journey) — an interactive piece for tracing paths on a sphere. Live: https://wwwportal.github.io/rihla-prototype/
 - [epistemic-game-engine](https://github.com/wwwportal/epistemic-game-engine) — A Java simulation combining epistemic reasoning, potential-field agent navigation, and a text-adventure layer.
