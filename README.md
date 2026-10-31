@@ -1,5 +1,5 @@
 # Yassine Amraoui
-
+https://www.linkedin.com/in/amraoui-yassine/
 ## Projects
 
 ### C/C++/ASM
