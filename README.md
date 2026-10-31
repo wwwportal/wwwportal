@@ -1,5 +1,5 @@
 # Yassine Amraoui
-[Linkedin](https://www.linkedin.com/in/amraoui-yassine/)
+[Linkedin](https://www.linkedin.com/in/amraoui-yassine/) | [Syntra Labs](https://github.com/Syntra-Labs)
 ## Projects
 
 ### C/C++/ASM
@@ -19,9 +19,3 @@
 - [Pulse](https://github.com/wwwportal/Pulse) — A safety-verifying software-to-hardware compiler bridging continuous-variable logic with silicon-photonic processors.
 - [brightspace-cli](https://github.com/wwwportal/brightspace-cli) — A CLI calendar and task viewer for the Brightspace learning management system.
 - [Scribe](https://github.com/wwwportal/Scribe) — A tool for downloading and transcribing audio from a YouTube video.
-
-## Quick Prototypes
-
-- [char-to-freq](https://github.com/wwwportal/char-to-freq) — A polyphonic microtonal mixer synthesizing audio carriers across a 72-EDO tuning matrix. Live: https://wwwportal.github.io/char-to-freq/
-- [rihla-prototype](https://github.com/wwwportal/rihla-prototype) — "Rihla" (Arabic for journey) — an interactive piece for tracing paths on a sphere. Live: https://wwwportal.github.io/rihla-prototype/
-- [epistemic-game-engine](https://github.com/wwwportal/epistemic-game-engine) — A Java simulation combining epistemic reasoning, potential-field agent navigation, and a text-adventure layer.
